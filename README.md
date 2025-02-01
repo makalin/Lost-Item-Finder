@@ -42,8 +42,8 @@ Lost Item Finder is a real-time object detection system that helps users locate 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lost-item-finder.git
-cd lost-item-finder
+git clone https://github.com/makalin/Lost-Item-Finder.git
+cd Lost-Item-Finder
 ```
 
 2. Install Python dependencies:
